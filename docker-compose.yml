@@ -1,0 +1,5 @@
+services:
+  app:
+    image: mraibel/holamundo
+    ports:
+      - "8080:8080"
